@@ -1,7 +1,7 @@
 ### <div align="center">I'm Leo, studying and working in Java 👨‍💻 that is to say in Anticheat</div>  
   
 
-- 🔭 I’m currently working on Private  
+- 🔭 I am currently working at Mineral Studios
   
 
 - 🌱 I’m currently learning at LearnSpigot.  
