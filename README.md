@@ -1,4 +1,4 @@
-### <div align="center">I'm Leo, studying and working in Java 👨‍💻 that is to say in Anticheat</div>  
+### <div align="center">I'm Leo, studying and working in Java 👨‍💻</div>  
   
 
 - 🔭 I am currently working at Mineral Studios
