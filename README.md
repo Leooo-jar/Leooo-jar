@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- ​📖​ I'm currently learning: Java, C, C++<br>- 🔋​ Projects: Scorch Studio<br>- ⚡ In my spare time I continue learning</p>
+<p align="left">- ​📖​ I'm currently learning: Java<br>- 🔋​ Projects: Scorch Studio<br>- ⚡ In my spare time I continue learning</p>
 
 ###
 
