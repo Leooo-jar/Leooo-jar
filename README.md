@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <h1>Leonid "Ruso" - AAA Game Developer</h1>
 </div>
 
 ###
@@ -27,44 +28,61 @@
 
 ###
 
-<h1 align="center">hey world 👋</h1>
+<h3 align="left">🚀 Game Developer Profile</h3>
 
 ###
 
-<h3 align="left">👨‍💻​  About Me</h3>
+<p align="left">
+• 🔥 Currently developing AAA games in Unreal Engine<br>
+• 🛡️ 2+ years Java anti-cheat systems development<br>
+• 🧠 Learning advanced C++ for game engine programming<br>
+• 💡 Passionate about open-world game architectures
+</p>
 
 ###
 
-<p align="left">- ​📖​ I'm currently learning: C++, Unreal Engine<br>- 🔋​ Projects: Video-Game Development<br>- ⚡ In my spare time I continue learning</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Core Tech Stack</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unreal engine logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Development Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Leooo-jar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Leooo-jar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leooo-jar&layout=compact&theme=vision-friendly-dark" height="150" alt="language graph"/>
 </div>
+
+###
+
+<h3 align="left">🎮 Currently Working On</h3>
+
+###
+
+<p align="left">
+• Unreal Engine 5 prototype<br>
+• Advanced multiplayer systems<br>
+• Procedural world generation experiments
+</p>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31atce6yspvfjufpc7sygvlwg3vi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31atce6yspvfjufpc7sygvlwg3vi&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31atce6yspvfjufpc7sygvlwg3vi&count=5&unique=true" alt="Spotify recently played"/>
   </a>
 </div>
-
-###
