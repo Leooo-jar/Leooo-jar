@@ -41,6 +41,18 @@
 
 ###
 
+<h3 align="left">🎮 Currently Working On</h3>
+
+###
+
+<p align="left">
+• Unreal Engine 5 prototype<br>
+• Advanced multiplayer systems<br>
+• Procedural world generation experiments
+</p>
+
+###
+
 <h3 align="left">🛠 Core Tech Stack</h3>
 
 ###
@@ -69,17 +81,6 @@
 
 ###
 
-<h3 align="left">🎮 Currently Working On</h3>
-
-###
-
-<p align="left">
-• Unreal Engine 5 prototype<br>
-• Advanced multiplayer systems<br>
-• Procedural world generation experiments
-</p>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31atce6yspvfjufpc7sygvlwg3vi">
