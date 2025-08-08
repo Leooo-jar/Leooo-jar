@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Welcome to my GitHub Profile!</p>
+## <p align="left">👋 Welcome to my GitHub Profile!</p>
 
 ###
 
